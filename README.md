@@ -10,21 +10,21 @@ Installation
 + Make sure git is installed
     
     $ sudo apt-get install git
-    
+
 
 + Change directory to themes location
-	
+
 	$ cd ~/.themes
-	
+
 _ or _
-	
+
 	$ cd /usr/share/themes
-	
+
 
 + Download from github
-	
+
 	$ git clone git://github.com/mbobino/linux-holo-dark.git holo-dark
-	
+
 
 + Profit!
 
@@ -32,19 +32,19 @@ _ or _
 **via Download and Terminal (The Less-Easy Way)**
 
 + Change directory to themes location
-	
+
 	$ cd ~/.themes
-	
-_ or _
-	
+
+_or_
+
 	$ cd /usr/share/themes
-	
+
 
 + Download the zipball
-	
+
 	$ wget -O holo-dark.zip https://github.com/mbobino/linux-holo-dark/archive/master.zip
 	$ unzip holo-dark.zip
-	
+
 
 + Profit!
 
