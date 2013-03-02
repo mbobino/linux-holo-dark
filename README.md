@@ -16,7 +16,7 @@ Installation
 
     $ cd ~/.themes
 
-_ or _
+*or*
 
     $ cd /usr/share/themes
 
